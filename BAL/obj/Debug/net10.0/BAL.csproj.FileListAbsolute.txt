@@ -1,0 +1,17 @@
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\BAL.deps.json
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\BAL.dll
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\BAL.pdb
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.AssemblyInfoInputs.cache
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.AssemblyInfo.cs
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.dll
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\refint\BAL.dll
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.pdb
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\ref\BAL.dll
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\BAL.runtimeconfig.json
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.csproj.AssemblyReference.cache
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.genruntimeconfig.cache
+C:\Users\rifat\source\repos\FOODProject\BAL\obj\Debug\net10.0\BAL.csproj.Up2Date
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\DAL.dll
+C:\Users\rifat\source\repos\FOODProject\BAL\bin\Debug\net10.0\DAL.pdb
