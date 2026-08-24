@@ -1,0 +1,14 @@
+C:\Users\rifat\source\repos\FOODProject\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\rifat\source\repos\FOODProject\DAL\bin\Debug\net10.0\DAL.dll
+C:\Users\rifat\source\repos\FOODProject\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.pdb
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\ref\DAL.dll
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+C:\Users\rifat\source\repos\FOODProject\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+C:\Users\rifat\source\repos\FOODProject\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
